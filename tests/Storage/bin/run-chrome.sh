@@ -1,0 +1,1 @@
+java -Dwebdriver.gecko.driver="chromedriver.exe" -jar selenium-server-standalone-3.8.1.jar -enablePassThrough false
