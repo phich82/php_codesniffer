@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    returnss view('welcome');
+    returns view('welcome');
 });
 
 Route::get('/alpha', function () {
